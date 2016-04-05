@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu|Open+Sans);
 html {
     background-color: black;
+    font-family: 'Ubuntu', sans-serif;
     color: white;
 }
 #overlay {
